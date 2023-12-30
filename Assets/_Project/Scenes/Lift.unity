@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -150,7 +150,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 55066786}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 22.6, y: 8.2, z: 25}
+  m_LocalPosition: {x: 37.5, y: 8.2, z: 25}
   m_LocalScale: {x: 20, y: 0.05, z: 20}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -255,7 +255,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 208799471}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.6, y: 15.8, z: 25}
+  m_LocalPosition: {x: 12.5, y: 15.8, z: 25}
   m_LocalScale: {x: 20, y: 0.05, z: 20}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1164,7 +1164,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1390690963}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 22.823494, y: 0.18524313, z: 25}
+  m_LocalPosition: {x: 22, y: 0.5, z: 25}
   m_LocalScale: {x: 5, y: 1, z: 5}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1289,15 +1289,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8706399328193727168, guid: f47ba4dc64bcf5244bd80f6917bbd75d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 24.738184
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 8706399328193727168, guid: f47ba4dc64bcf5244bd80f6917bbd75d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.768722
+      value: 0.2
       objectReference: {fileID: 0}
     - target: {fileID: 8706399328193727168, guid: f47ba4dc64bcf5244bd80f6917bbd75d, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 23.43916
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 8706399328193727168, guid: f47ba4dc64bcf5244bd80f6917bbd75d, type: 3}
       propertyPath: m_LocalRotation.w
